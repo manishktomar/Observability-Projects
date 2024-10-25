@@ -1,9 +1,9 @@
 # Observability with Docker Compose and ELK
 Setting up an ELK stack (Elasticsearch, Logstash, and Kibana) using Docker containers is a straightforward way to quickly deploy centralized logging for your application. 
 
-## Elasticsearch: Handles storage, indexing, and querying of log data.
-## Logstash: Processes and transforms data before sending it to Elasticsearch.
-## Kibana: Provides a UI to visualize, search, and analyze the data.
+1. Elasticsearch: Handles storage, indexing, and querying of log data.2.
+2. Logstash: Processes and transforms data before sending it to Elasticsearch.
+3. Kibana: Provides a UI to visualize, search, and analyze the data.
 
 ### Step 1: Install Docker and Docker Compose
 Make sure Docker and Docker Compose are installed on your system.(Installation)
